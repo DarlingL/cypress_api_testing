@@ -5,7 +5,7 @@ usando em conjunto Joi e Joi-Assert para validar o contrato das respostas.
 
 ## como rodar os testes de contrato
 
-2. Atualizando o projeto
+1. Atualizando o projeto
 ```
 npm install --safe
 ```
